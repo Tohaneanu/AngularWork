@@ -1,0 +1,58 @@
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    width: auto;
+    background: rgb(0, 85, 128);
+}
+
+.img {
+    position: absolute;
+    top: 5px;
+    right: 1px;
+    width: 10%;
+    border: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    background: rgb(0, 85, 128);
+
+}
+.contact{
+    position: absolute;
+    top: 120px;
+    right: 200px;
+    color: gray;
+}
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
+.space{
+    padding-bottom: 120px;
+}
+.content{
+    text-align: center;
+    width: auto;
+    color: rgb(0, 85, 128);
+    list-style-position: inside;
+
+}
+.table{
+    width: 100%;
+
+}
+td{
+    text-align: center;
+}
+H4 {display: inline;}
+hr{background: lightseagreen}
